@@ -32,6 +32,6 @@ future.learnedLanguages = ["Rust", "R", "Go"]
 
 # General
 hobbies.debate = "First Place at an International Tournament (Ispahan International 2020)"
-hobbies.drones = "Always trying novel and creative ways to design and fabricate drones,
+hobbies.drones = "Always trying novel and creative ways to design and fabricate drones, \
                   such as cycloidal propellors and auto-rotation based airdrops"
 ```
